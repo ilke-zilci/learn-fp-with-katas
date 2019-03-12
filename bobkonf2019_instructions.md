@@ -1,7 +1,10 @@
 # Before the workshop
 
 ## Choose a language
-Scala, Haskell or Clojure. Please install a full development environment and an editor of your choice, and write a failing test. The failing test makes sure that your setup works properly. For examples, check out https://github.com/swkBerlin/kata-bootstraps.
+Scala, Haskell or Clojure. Please install a full development environment and an editor of your choice, and write a failing test. The failing test makes sure that your setup works properly. Alternatively you can download a template for the language of your choice from here and run a test (it should fail). https://github.com/swkBerlin/kata-bootstraps.
+
+## Familiarize yourself with the idea of kata
+A code kata strives to provide a no time pressure practice environment in which we can stretch our abilities. The target is not to complete the exercise but to focus on learning along the way. This is the perfect time to try out different solutions, take some design idea to an extreme to see the contrast with other ideas or to learn a specific technique. If it feels too easy than we need to add some constraint, if it feels too difficult than we need to break it down.
 
 # During the workshop 
 # Find your pair
