@@ -44,15 +44,18 @@ You can read the kata descriptions in this repo or follow the links below:
   * write pure functions
   * use only immutable variables
   * higher order functions
-    
+  Some short and helpful explanations are available at this link: https://alvinalexander.com/scala/fp-book/section-functional-programming-background
+
   2. Enablers  
   * recursion
   * tail-recursion
+  Some short and helpful explanations are available at this link: http://learnyouahaskell.com/recursion
 
   3. Real life
   * error handling
   * state
   * handling computations sequentially vs in parallel
+  Some short and helpful explanations are available at this link: https://books.underscore.io/scala-with-cats/scala-with-cats.html
 
 ## More ways to get to learning zone
   * Provide buzzword free explanations of the concepts you know 
